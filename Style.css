@@ -961,6 +961,11 @@ html {
   outline: none;
 }
 
+@media screen and (max-width: 1290px){
+  #sm-banner .banner-box {
+    width: 540px;
+  }
+}
 @media screen and (max-width: 799px) {
   .section-p1 {
     padding: 40px 40px;
@@ -1188,3 +1193,4 @@ html {
     width: 27rem;
   }
 }
+
