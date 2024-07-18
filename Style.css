@@ -961,7 +961,7 @@ html {
   outline: none;
 }
 
-@media screen and (max-width: 1290px){
+@media screen and (max-width: 1390px){
   #sm-banner .banner-box {
     width: 540px;
   }
