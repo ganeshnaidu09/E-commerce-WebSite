@@ -1,5 +1,6 @@
 # E-Commerce Website
-![ganeshnaidu09 github io_E-commerce-WebSite_](https://github.com/user-attachments/assets/05edfd84-309a-4006-9dae-4b3f65c57524)
+![_D__veda%20it_git%20Hub%20Projects_git%20E-commerce_index html](https://github.com/user-attachments/assets/9c943b76-d0d3-48a9-9b02-d254426c33fe)
+
 
 ## Introduction
 This is a simple e-commerce website built using HTML, CSS, and JavaScript. The project aims to provide a basic platform for showcasing products, managing a shopping cart, and processing orders.
