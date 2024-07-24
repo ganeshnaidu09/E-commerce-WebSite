@@ -1,5 +1,6 @@
 # E-Commerce Website
-![127 0 0 1_5500_index html (1)](https://github.com/user-attachments/assets/247d858b-27d2-4ff4-bb9d-4829ac75a517)
+![127 0 0 1_5500_index html](https://github.com/user-attachments/assets/15de74f7-1282-4684-8ea6-a800a33b1eda)
+
 
 
 
