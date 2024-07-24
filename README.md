@@ -1,5 +1,7 @@
 # E-Commerce Website
-![_D__veda%20it_git%20Hub%20Projects_git%20E-commerce_index html](https://github.com/user-attachments/assets/9c943b76-d0d3-48a9-9b02-d254426c33fe)
+![127 0 0 1_5500_index html (1)](https://github.com/user-attachments/assets/247d858b-27d2-4ff4-bb9d-4829ac75a517)
+
+
 
 
 ## Introduction
